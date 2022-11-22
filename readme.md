@@ -5,3 +5,5 @@
 Tecnologias:<br>
 [x] HTML<br>
 [x] CSS 🎨<br>
+
+![Parallax-gif](https://user-images.githubusercontent.com/109834277/203378205-30840515-eb51-4b57-afa4-90c1eb9532fe.gif)
