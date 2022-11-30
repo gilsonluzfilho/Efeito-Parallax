@@ -94,3 +94,7 @@ section.module.parallax h1 {
     z-index: 50;
     text-transform: uppercase;
 }
+
+.area-1, .area-2, .area-3 {
+    visibility: hidden;
+}
